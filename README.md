@@ -1,5 +1,5 @@
-# User-API
-### Projeto API de usuários com CRUD completo
+# User-API REST
+### Projeto API REST de usuários com CRUD completo
 
 ## Project setup
 ```
